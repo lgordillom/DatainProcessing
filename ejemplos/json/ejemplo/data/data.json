@@ -1,0 +1,82 @@
+{"bubbles": [
+  {
+    "diameter": 43.19838,
+    "position": {
+      "x": 160,
+      "y": 103
+    },
+    "label": "Happy"
+  },
+  {
+    "diameter": 52.42526,
+    "position": {
+      "x": 372,
+      "y": 137
+    },
+    "label": "Sad"
+  },
+  {
+    "diameter": 64.71263885498047,
+    "position": {
+      "x": 235,
+      "y": 205
+    },
+    "label": "New label"
+  },
+  {
+    "diameter": 59.012107849121094,
+    "position": {
+      "x": 501,
+      "y": 134
+    },
+    "label": "New label"
+  },
+  {
+    "diameter": 76.33009338378906,
+    "position": {
+      "x": 209,
+      "y": 40
+    },
+    "label": "New label"
+  },
+  {
+    "diameter": 53.5839729309082,
+    "position": {
+      "x": 463,
+      "y": 33
+    },
+    "label": "New label"
+  },
+  {
+    "diameter": 62.1347770690918,
+    "position": {
+      "x": 383,
+      "y": 129
+    },
+    "label": "New label"
+  },
+  {
+    "diameter": 69.27708435058594,
+    "position": {
+      "x": 375,
+      "y": 135
+    },
+    "label": "New label"
+  },
+  {
+    "diameter": 53.016761779785156,
+    "position": {
+      "x": 408,
+      "y": 206
+    },
+    "label": "New label"
+  },
+  {
+    "diameter": 59.98693084716797,
+    "position": {
+      "x": 292,
+      "y": 134
+    },
+    "label": "New label"
+  }
+]}
